@@ -1,0 +1,102 @@
+.imageContainer{
+    background:url(https://images.unsplash.com/photo-1556911220-bff31c812dba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=835&q=80);
+    border-style: solid;
+    border-color:whitesmoke;
+    background-size:cover;
+    background-position: center;
+}
+body{
+    margin-left:90px;
+    margin-right:90px;
+}
+#logo{
+    text-align: center;
+    color:red;
+    font-weight: bold;
+    font-size:90px;
+    background-color:white;
+    height:150px;
+    width:150px;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: 80px;
+    margin-bottom: 60px;
+    background-origin: content-box;
+    padding: 10px;
+
+}
+.heading{
+    text-align: center;
+    color:black;
+    font-size:36px;
+}
+.locationSelector{
+    margin-top:20px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.locationDropDown{
+    width:200px;
+    height:40px;
+    border-radius:0%;
+    font-size:15px;
+    border:none;
+    margin-left:20px;
+    color:gray
+}
+.restaurantinput{
+    width:300px;
+    height:40px;
+    border-radius: 0%;
+    font-size:15px;
+    border:none;
+    margin-left:20px;
+    color:gray;
+}
+.quickSearchContainer{
+    margin-left:110px;
+    margin-top:50px;
+}
+.quickSearchHeading{
+    text-align: left;
+    color:#192f60;
+    font-size:30px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.quickSearchSubHeading{
+    text-align: left;
+    color:gray;
+    font-size:18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.titleContainer{
+    height:150px;
+    width:300px;
+    background-color:white;
+    margin-right:30px;
+    margin-bottom:30px;
+    box-shadow:0 3px 6px black;
+    display: inline-block;
+}
+.titleComponent1{
+    width:50%;
+    float:left;
+
+}
+.titleComponent2{
+    width:50%;
+    float:left;
+}
+.componentHeading{
+    text-aglin:left;
+    color:#192f60;
+    font-size:18px;
+    font-weight:bold;
+}
+.componentSubHeading{
+    text-align:left;
+    color:gray;
+    font-size:18px;
+}
